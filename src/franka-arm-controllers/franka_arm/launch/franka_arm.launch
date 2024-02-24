@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="franka_arm" type="gravity_transform.py" name="grav_comp" output="screen"/>
+  
+</launch>

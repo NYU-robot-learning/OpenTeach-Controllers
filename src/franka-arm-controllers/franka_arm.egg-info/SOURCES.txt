@@ -1,0 +1,5 @@
+setup.py
+franka_arm.egg-info/PKG-INFO
+franka_arm.egg-info/SOURCES.txt
+franka_arm.egg-info/dependency_links.txt
+franka_arm.egg-info/top_level.txt
