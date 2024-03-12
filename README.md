@@ -3,9 +3,9 @@
 This repository is the collection of symlinks to the controllers/sensor controllers and controller wrappers of robots used for Open-Teach. The robots/sensors include
 
 - [x] [Franka Emika](https://github.com/NYU-robot-learning/OpenTeach-Controllers/tree/main/src/franka-arm-controllers)
-- [x] [Kinova Jaco](https://github.com/NYU-robot-learning/kinova-arm-controller)
-- [x] [Xela Tactile sensors](https://github.com/NYU-robot-learning/xela-sensor-controllers/tree/curved_hand)
-- [x] [Allegro Hand Curved](https://github.com/NYU-robot-learning/allegro-hand-controllers/tree/curved_xela_hand)
+- [x] [Kinova Jaco](https://github.com/NYU-robot-learning/kinova-arm-controller-Openteach.git)
+- [x] [Xela Tactile sensors](https://github.com/NYU-robot-learning/Xela-Sensor-Controllers-Openteach.git)
+- [x] [Allegro Hand Curved](https://github.com/NYU-robot-learning/Allegro-Hand-Curved-Openteach.git)
 
 ## Installation
 
