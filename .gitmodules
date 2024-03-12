@@ -1,0 +1,9 @@
+[submodule "src/src/Allegro-Hand-Curved-Openteach"]
+	path = src/src/Allegro-Hand-Curved-Openteach
+	url = https://github.com/NYU-robot-learning/Allegro-Hand-Curved-Openteach
+[submodule "src/src/kinova-arm-controller-Openteach"]
+	path = src/src/kinova-arm-controller-Openteach
+	url = https://github.com/NYU-robot-learning/kinova-arm-controller-Openteach.git
+[submodule "src/src/Xela-Sensor-Controllers-Openteach"]
+	path = src/src/Xela-Sensor-Controllers-Openteach
+	url = https://github.com/NYU-robot-learning/Xela-Sensor-Controllers-Openteach.git
