@@ -11,9 +11,9 @@ This repository is the collection of symlinks to the controllers/sensor controll
 
 Clone the repository using 
 
-`git clone git@github.com:NYU-robot-learning/OpenTeach-Controllers.git`
+`git clone --recurse-submodules https://github.com/NYU-robot-learning/OpenTeach-Controllers.git`
 
-Clone the allegro hand controllers, kinova arm controllers, xela_hand_controllers and franka-arm-controllers repository and install them within OpenTeach-Controllers repository. 
+This will recursively install all the individual controllers 
 
 Follow the instructions in allegro-hand-controllers repository to install CAN drivers. 
 
