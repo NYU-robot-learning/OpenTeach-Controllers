@@ -5,3 +5,6 @@
 [submodule "src/kinova-arm-controller-Openteach"]
 	path = src/kinova-arm-controller-Openteach
 	url = https://github.com/NYU-robot-learning/kinova-arm-controller-Openteach.git
+[submodule "src/Allegro-Hand-Curved-Openteach"]
+	path = src/Allegro-Hand-Curved-Openteach
+	url = https://github.com/NYU-robot-learning/Allegro-Hand-Curved-Openteach.git
