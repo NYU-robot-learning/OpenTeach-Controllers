@@ -1,6 +1,6 @@
 # OpenTeach-Controllers
 
-This repository is the collection of symlinks to the controllers/sensor controllers and controller wrappers of robots used for Open-Teach. The robots/sensors include
+This repository is the collection of symlinks to the controllers/sensor controllers and controller wrappers of robots used for [Open-Teach](https://arxiv.org/abs/2403.07870). The robots/sensors include
 
 - [x] [Franka Emika](https://github.com/NYU-robot-learning/OpenTeach-Controllers/tree/main/src/franka-arm-controllers)
 - [x] [Kinova Jaco](https://github.com/NYU-robot-learning/kinova-arm-controller-Openteach.git)
@@ -42,6 +42,15 @@ Launch the controller using
 `roslaunch xela_server service.launch` 
 
 
-
+### Citation
+If you use this repo in your research, please consider citing the paper as follows:
+```@misc{iyer2024open,
+      title={OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation}, 
+      author={Aadhithya Iyer and Zhuoran Peng and Yinlong Dai and Irmak Guzey and Siddhant Haldar and Soumith Chintala and Lerrel Pinto},
+      year={2024},
+      eprint={2403.07870},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 
 
